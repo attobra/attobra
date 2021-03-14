@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @attobra
 - 👀 I’m interested in coding and data.
 - 🌱 I’m currently learning about how to make the world a better place.
-- 💞️ I’m looking to collaborate on projects that inpire others.
+- 💞️ I’m looking to collaborate on projects that inspire others.
 - 📫 How to reach me: nora.attobra@gmail.com or 812-604-4945.
 
 <!---
